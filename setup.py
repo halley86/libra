@@ -15,7 +15,7 @@ setuptools.setup(
     url="https://github.com/Palashio/libra",
     install_requires=['colorama',
                       'transformers==2.11.0',
-                      'tensorflow==2.2.0',
+                      'tensorflow==2.5.0',
                       'keras==2.4.3',
                       'numpy',
                       'pandas',
